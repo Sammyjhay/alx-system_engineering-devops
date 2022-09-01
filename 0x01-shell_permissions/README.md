@@ -1,0 +1,1 @@
+(0) switch user, (1) print username, (2) print groups, (3) change owner, (4) create empty file, (5) add execute, (6) add execute 2, (7) add execute 3, (8) set permission, (9) set mode, (10) set mode 2, (11) add execute4, (12) create dir, (13) change owner 2 
